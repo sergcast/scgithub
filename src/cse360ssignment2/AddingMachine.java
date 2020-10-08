@@ -21,7 +21,7 @@ public class AddingMachine
 		  
 		  public void add (int value) 
 		  {
-		  
+		  System.out.print("hello");
 		  }
 
 		  public void subtract (int value) 
